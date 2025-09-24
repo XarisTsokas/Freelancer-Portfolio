@@ -1,14 +1,15 @@
-body{
-        background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('backg.jpg') ;
-        background-repeat: no-repeat;
-        background-size: cover; 
-        color: white;
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./assets/backgrounds/backg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
 }
 
-h1{
-    color: white;
-    font-size: 50px;
-    text-align: center;
-    margin-top: 200px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+h1 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 200px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
